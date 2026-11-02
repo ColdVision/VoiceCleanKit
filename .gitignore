@@ -1,0 +1,7 @@
+.venv/
+projects/
+settings.json
+__pycache__/
+*.wav
+*.mp3
+*.mp4
